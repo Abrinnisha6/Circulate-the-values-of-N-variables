@@ -8,6 +8,7 @@ PC
 Anaconda - Python 3.7
 
 ## Algorithm: 
+
 ### Step 1: 
 Get the two values from the user
 ### Step 2: 
@@ -33,7 +34,7 @@ l = eval(input())
 n = int(input())
 ```
 ## Output:
-![](circulateoutput.png)
+![](CR.png)
 
 ## Result:
 Thus the circulate the values of N-variables are succesfully solved using python programming
